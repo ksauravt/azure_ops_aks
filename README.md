@@ -1,9 +1,4 @@
 # DevOps For Machine Learning | MLOps
-The following example illustrates how to configure the MLOps workflow with Azure using the codes and instructions in this repository:
-
-![Flow](./architecture/flow.PNG)
-
-##  Azure Machine Learning and MLOps
 
 The described MLOps capabilities are provided by Azure Machine Learning:
 

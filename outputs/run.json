@@ -1,0 +1,42 @@
+{
+    "_experiment_name": "fintech_classification",
+    "cancel_uri": "https://centralus.api.azureml.ms/execution/v1.0/subscriptions/cd8ba744-6938-43c1-a1d4-9ee08a79a5c5/resourceGroups/mlops-wksh-arg-1/providers/Microsoft.MachineLearningServices/workspaces/mlops-wksh-aml-1/experiments/fintech_classification/runId/fintech_classification_1681223961_3301b662/cancel",
+    "created_by": {
+        "user_name": "60a57e19-c467-42d4-87c8-a6b0fb638d48",
+        "user_object_id": "4ed48d60-d15a-431d-8542-1319996cbaf8",
+        "user_tenant_id": "5f8027bb-8112-4855-8057-2d6d66042166"
+    },
+    "created_utc": "2023-04-11T14:39:23.21818Z",
+    "data_container_id": "dcid.fintech_classification_1681223961_3301b662",
+    "diagnostics_uri": "",
+    "display_name": "sharp_muscle_76rypwkl",
+    "experiment_id": "cbd34cbc-3848-4ba0-a4ec-471eae015ea8",
+    "hidden": false,
+    "properties": {
+        "ContentSnapshotId": "264dcb9b-7bb9-46ee-b50f-5605d4f0fa5a",
+        "_azureml.ComputeTargetType": "amlctrain",
+        "azureml.git.commit": "c5a5e20491d240332e2b8bd9b5dca943f399aa00",
+        "azureml.git.dirty": "False",
+        "azureml.git.repository_uri": "https://ksauravt@dev.azure.com/ksauravt/MLOps-WorkShop-1/_git/MLOps-WorkShop-1",
+        "mlflow.source.git.commit": "c5a5e20491d240332e2b8bd9b5dca943f399aa00",
+        "mlflow.source.git.repoURL": "https://ksauravt@dev.azure.com/ksauravt/MLOps-WorkShop-1/_git/MLOps-WorkShop-1"
+    },
+    "root_run_id": "fintech_classification_1681223961_3301b662",
+    "root_run_uuid": "068190e7-ba11-4f3a-be2b-8b2ae91fdf3c",
+    "run_id": "fintech_classification_1681223961_3301b662",
+    "run_number": 1681223963,
+    "run_type": "azureml.scriptrun",
+    "run_type_v2": {
+        "orchestrator": "Execution",
+        "traits": [
+            "scriptRun",
+            "remote"
+        ]
+    },
+    "run_uuid": "068190e7-ba11-4f3a-be2b-8b2ae91fdf3c",
+    "script_name": "train_aml.py",
+    "status": "Completed",
+    "tags": {},
+    "target": "amlcluster",
+    "user_id": "4ed48d60-d15a-431d-8542-1319996cbaf8"
+}
